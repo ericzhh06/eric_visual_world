@@ -1,0 +1,139 @@
+order,name,time,about,description
+1,1,5th–4th Century BCE,Pythagorean School: Proposed emission theory—eyes emit rays to detect objects.,"Engraving shows people viewing a dragon using visual rays, illustrating emission theory—vision through rays from eyes forming shared perception."
+2,2,5th–4th Century BCE,Pythagorean School: Proposed emission theory—eyes emit rays to detect objects.,"Engraving shows people viewing a dragon using visual rays, illustrating emission theory—vision through rays from eyes forming shared perception."
+3,3,4th Century BCE,Democritus: Intromission theory—objects emit particles that enter the eyes.,"Vision occurs when light rays enter the eyes from objects, forming images inside—opposite of emission theory's outward rays."
+4,8,4th Century BCE,Plato (Timaeus): Vision involves "visual fire" from the eyes meeting external light.,
+5,9,9th and 13th centuries,Ibn al-Haytham (Alhazen) ,"Alhazen demonstrates camera obscura: light through a small hole projects inverted image inside a dark room, proving intromission theory."
+6,10,9th and 13th centuries,Ibn al-Haytham proposed that light reflects from objects into the eye.,"Medieval Arabic diagram showing brain and optic nerves, illustrating early neuroscience and intromission vision theory during the Islamic Golden Age."
+7,11,Medieval,The Allegory of Good Government: Effects of Good Government on the City,Scattered perspective shows urban daily life; multiple viewpoints prioritize narrative over realistic spatial representation.
+8,12,Early 15th Century,Filippo Brunelleschi,"Linear perspective drawing and realized architecture both express Brunelleschi’s vision of harmony, proportion, and spatial clarity in Renaissance design."
+9,13,Early 15th Century,Filippo Brunelleschi‘s perspective,Filippo Brunelleschi’s experiment with linear perspective
+10,14,Early 15th Century,The Delivery of the Keys,"Perugino’s use of one-point perspective unifies space, architecture, and narrative, embodying Renaissance ideals of order, clarity, and divine logic."
+11,15,Early 15th Century,Ideal City (or Ideal Cityscape),"An ideal Renaissance city rendered in perfect one-point perspective, symbolizing harmony, geometry, and humanist urban ideals through classical architecture."
+12,16,1500s, Leonardo da Vinci,"Leonardo’s diagram unites optics and perspective, showing how vision structures depth perception through converging rays and spatial geometry."
+13,17,1500s,Leonardo da Vinci and later developer,"Leonardo studied camera obscura to understand vision and perspective, connecting optics, nature, and art through light and projection."
+14,18,1500s, Leonardo da Vinci and later developer,"An evolved camera obscura, reflecting Leonardo’s optical principles, projects real scenes for artistic tracing, linking vision, geometry, and image-making."
+15,19,1500s, Leonardo da Vinci ,"This drawing is from Leonardo da Vinci’s notebooks, and it’s a powerful visual explanation of how vision and light work together—a synthesis of anatomy, optics, geometry, and perspective."
+16,21,1500s, Leonardo da Vinci ,"Leonardo’s perspective study unites architecture and narrative, using geometric precision to structure space, movement, and visual drama dynamically."
+17,22,1500s, Leonardo da Vinci ,"Leonardo’s setup uses a transparent grid to trace objects, blending optics, geometry, and manual precision to master spatial representation."
+18,23,1500s, Leonardo da Vinci ,"Leonardo’s Last Supper unites linear perspective, psychological depth, and spiritual symbolism, making Christ the focal point of human drama."
+19,24,1600s,Johannes Kepler,Kepler revolutionized optics by showing the eye forms inverted images on the retina—this diagram illustrates his influence on vision science.
+20,7,1600s,Johannes Kepler,"These diagrams show the shift from optical refraction to neural mechanics, tracing vision from eye to brain to bodily response."
+21,25,1650s,Isaac Newton ,"This prism image references Newton’s discovery that white light contains all colors, foundational to modern optics and color theory."
+22,26,1650s,Isaac Newton and Christiaan Huygens,"This diagram visualizes early optics, aligning with Newton’s particle theory and Huygens’ wave model—two foundations of modern light science."
+23,27,1650s,Isaac Newton and Christiaan Huygens,"This diagram shows image inversion through a lens, foundational to Kepler’s retinal theory and Newton-Huygens optical developments in vision science."
+24,28,1839-, Louis Daguerre,"Louis Daguerre invented the camera by fixing images with light-sensitive plates, transforming centuries of optical theory into photography."
+25,29,1839-,Wheatstone stereoscope,"This Wheatstone stereoscope uses mirrors to deliver different images to each eye, pioneering 3D vision and stereoscopic depth perception."
+26,30,1840s,stereoscope,"This 19th-century stereoscope uses binocular vision to merge two images into one 3D view, anticipating modern virtual reality optics."
+27,31,1840s,Brewster stereoscope,"The Brewster stereoscope creates 3D illusions from twin photos, merging science and leisure in early immersive visual technology."
+28,32,1840s,stereograph,"This pair of stereograph depicts 3D visual education at home, merging entertainment and learning through immersive stereoscopic photography."
+29,33,1850s–1870s ,"Helmholtz and others, “grid method” or “perspectival net”,","Helmholtz and others developed physiological optics, studying perception, afterimages, and eye movement."
+30,34,1900s,Optical illusions became tools to study visual processing.,"This illusion by Kitaoka creates false motion using color and contrast, revealing how eye movements and brain processing shape perception."
+31,35,1900s,Cinématographe by Auguste and Louis Lumière,"The Lumière Cinématographe was the first camera-projector, revolutionizing motion pictures and launching public cinema in 1895 Paris."
+32,36,1878,Eadweard Muybridge’s photographic motion studies,"Muybridge’s motion study froze time into frames, proving gallop physics and pioneering photographic sequences that led directly to cinema’s birth."
+33,37,1898,L'Arrivée d’un train en gare de La Ciotat,"The Lumière brothers’ train film stunned 1895 audiences, symbolizing cinema’s power to turn everyday motion into immersive spectacle."
+34,38,1922,Oskar Schlemmer,"Oskar Schlemmer’s Triadic Ballet fused Bauhaus geometry with performance, transforming dancers into living sculptures of space, rhythm, and illusion."
+35,39,1920s–1930s,Wassily Kandinsky,"Kandinsky’s abstract masterpiece unites color, geometry, and rhythm into spiritual expression, echoing music and Bauhaus-era modernist ideals."
+36,40,1910s–1930s,"Kanizsa Triangle,","The Kanizsa Triangle illusion reveals how the brain invents shapes using closure and contrast, illustrating Gestalt principles in perception."
+37,41,1920s,Gestalt psychology,"Early 20th Century Avant-garde movements (Futurism, Constructivism, Bauhaus) experimented with abstract visual forms and perception."
+38,42,1920s,Montage theory ,"The Kuleshov Effect shows how editing shapes meaning, with identical expressions appearing emotional when paired with changing contextual images."
+39,43,1929,Dziga Vertov,"Vertov’s Man with a Movie Camera celebrates cinema’s power, blending surreal montage and self-reflexivity to redefine visual storytelling."
+40,44,1920s–1940s,Walter Benjamin, (The Work of Art in the Age of Mechanical Reproduction): Analyzed how photography and film change aura and perception.
+41,45,1970s–1980s,Jacques Lacan,"Lacan’s gaze theory reconfigures perspective, revealing how seeing is structured by desire, mediation, and the awareness of being watched."
+42,46,1970s–1980s,"“Visual Turn” in cultural theory: Vision becomes a central topic in media, gender, and philosophy.","Crary critiques modern vision as dehumanized by digital media, while Fabro’s sculpture playfully reinterprets bodily form through conceptual geometry."
+43,47,1968,Early VR prototypes and simulated environments pointed toward future immersion.,Ivan Sutherland’s 1968 "Sword of Damocles" headset pioneered immersive VR by combining stereoscopic display and real-time head tracking.
+44,48,1968,Early VR prototypes and simulated environments pointed toward future immersion.,Ivan Sutherland’s 1968 "Sword of Damocles" headset pioneered immersive VR by combining stereoscopic display and real-time head tracking.
+45,49,1975," world’s first digital camera, built by Steve Sasson","Kodak’s 1975 prototype digital camera, invented by Steve Sasson, captured black-and-white images digitally, launching the digital photography revolution."
+46,50,1969,the first video camera using a charge-coupled device (CCD) ,"Boyle and Smith at Bell Labs pioneered CCD technology, enabling digital video and photography, transforming imaging in science, media, and daily life."
+47,51,2000s,CCTV surveillance cameras,"Modern CCTV symbolizes automated vision—shifting sight from human perception to machine surveillance, reshaping privacy, control, and social behavior."
+48,52,2000s,360-degree panoramic,"Widespread use of digital cameras, surveillance systems, and Google Earth; vision becomes global and networked."
+49,53,2000s,satellite orbiting Earth,"A satellite orbits Earth, embodying a disembodied gaze that transforms vision into data, surveillance, and planetary-scale observation.
+"
+50,54,2000s,"Satellites visualize Earth’s climate systems—ice, heat, salinity, biology—forming a synthetic vision beyond human sight, crucial for planetary stewardship.","Emergence of remote sensing, satellite imaging, and geo-visualization."
+51,58,2010s,"Computer vision becomes common in facial recognition, autonomous vehicles, and healthcare.","AI-generated faces blend realism and distortion, revealing machine learning’s visual logic and raising deep questions about authenticity and digital identity."
+52,57,2010s,"an urban traffic scene enhanced with computer vision,","This image shows an urban traffic scene enhanced with computer vision, a type of artificial intelligence that enables machines to interpret and process visual data like humans do."
+53,55,2010s,AI-generated imagery (GANs) introduces non-indexical vision—images that have no real-world referent.,
+54,56,2010s,AI-generated imagery (GANs) introduces non-indexical vision—images that have no real-world referent.,
+55,59,2020s,Apple Vision Pro,"This image shows the Apple Vision Pro, a mixed reality headset introduced by Apple in 2023. It’s one of the most advanced consumer devices blending augmented reality (AR) and virtual reality (VR) into what Apple refers to as spatial computing.
+"
+56,60,2020s,Apple Vision Pro,
+57,61,2020s,Rise of synthetic vision: Machines “see” and interpret environments independently,
+58,62,2020s,Rise of synthetic vision: Machines “see” and interpret environments independently,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,Layers of process of creating images,Analysis of study of binocular,Objectivity of space
+,,"9,12,13,14,15,16,17,18,19,21,22,25,28,30,31,35,36,37,38,","7,10,24,29,30,31,32,33,34,40,47,48","12,13,16,17,18,21,25,28,29,30,31,32,33,34,35,36,37,39,39,40,41,42,45,47,48,49,50"
