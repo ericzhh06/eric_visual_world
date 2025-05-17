@@ -1,0 +1,66 @@
+/* === 通用样式 === */
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.an-back {
+  background-image: url("img/background-line.png");
+  background-size: 80%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  min-height: 900vh; /* 延长滚动时间 */
+}
+
+.img-container {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: visible;
+}
+
+/* === 滚动图片基础样式 === */
+.scroll-img {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  width: 0vw;
+  opacity: 0;
+  transform: translate(-50%, -50%);
+  transition: width 0.4s ease-out, opacity 0.4s ease-out, transform 0.4s ease-out;
+  will-change: width, opacity, transform;
+  z-index: 2;
+  image-rendering: optimizeSpeed;
+  backface-visibility: hidden;
+}
+
+/* === my-back 优先显示在 black1 前面，位于底部 === */
+.my-back {
+  z-index: 3;
+  bottom: 0;
+  top: auto;
+  transform: translateX(-50%) translateY(0%);
+}
+
+/* === black1 顶部显示 === */
+.black1 {
+  top: 0;
+  transform: translateX(-50%);
+  z-index: 2;
+}
+
+/* === red3 显示在上层 === */
+.red3 {
+  z-index: 5;
+}
+
+/* === black3 出现在 red3 之后，保持显示，z-index 更低 === */
+.black3 {
+  z-index: 4;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 1;
+  width: 90vw;
+}
