@@ -1,0 +1,176 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 5000px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+  font-family: Arial, sans-serif;
+
+
+}
+
+#scr-container-tl {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 600%;
+  height: 100vh;
+  background:url(backimg.jpg);
+
+ 
+  background-position: center center;       /* 居中对齐 */
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  z-index: 999;
+
+}
+
+#timeline {
+  display: flex;
+  transition: transform 0.3s ease-in-out;
+  padding-left: 50px;
+}
+
+.time-item {
+  margin-right: 40px;
+  padding: 0;
+  background: none;
+  border: none;
+  box-shadow: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 auto;           /* 不压缩也不拉伸 */
+  width: auto;
+  overflow: visible;        /* 显示超出部分 */
+}
+.time-item img {
+  width: 20vw;
+  height: auto;
+  display: block;
+  z-index: 1;
+}
+
+
+.photo-wrapper {
+  position: relative;
+  display: inline-block;
+}
+
+.photo-wrapper img {
+  width: 20vw;
+  height: auto;
+  display: block;
+}
+
+.photo-label {
+  position: absolute;
+  left: 0;
+  font-family: "Avenir", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  width: 100%;
+  padding: 5px 10px;
+  background: rgba(0, 0, 0, 0.75);
+  color: white;
+  font-size: 0.9rem;
+  opacity: 0;
+  transition: opacity 0.3s;
+  pointer-events: none;
+}
+
+.photo-wrapper:hover .photo-label {
+  opacity: 1;
+}
+
+.photo-label.top {
+  top: 0;
+}
+
+.photo-label.bottom {
+  bottom: 0;
+}
+.photo-label.bottom.time {
+  bottom: 0;
+}
+
+.photo-label.bottom.about,
+.photo-label.bottom.description {
+  bottom: 1.8em; /* 上移一点，避免遮住 time */
+}
+
+.photo-wrapper.zoomed {
+  transform: scale(3);
+  z-index: 10;
+}
+
+.photo-wrapper {
+  transition: transform 0.3s ease;
+  transform-origin: center;
+  
+}
+#intro-video {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  z-index: 9999;
+  background: black;
+}
+#end-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+}
+
+#end-overlay img {
+  max-width: 90%;
+  max-height: 80%;
+  cursor: pointer;
+}
+
+#goto-animation {
+  margin-top: 20px;
+  padding: 12px 24px;
+  background: white;
+  color: black;
+  border: none;
+  border-radius: 6px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+.bottom-line {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  height: 1px;
+  background-color: white;
+  opacity: 0.8;
+}
+#intro-video.fade-out {
+  opacity: 0;
+  transition: opacity 0.6s ease;
+}
+
+#center-horizontal-line {
+  position: fixed;
+  top: 50%;
+  left: 0;
+  width: 100%;
+  height: 1px;
+  background-color: white;
+  z-index: 2;
+  pointer-events: none;
+}
